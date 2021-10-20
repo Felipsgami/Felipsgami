@@ -28,6 +28,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<div>
-<img src="https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=54045965798">
-</div>
