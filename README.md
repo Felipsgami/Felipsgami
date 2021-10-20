@@ -29,4 +29,4 @@
  
 </div>
 <div>
- <img src="https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=54045965798" alt="My cool logo"/>
+ <![img](https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=54045965798" alt="My cool logo)/>
