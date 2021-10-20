@@ -30,5 +30,5 @@
 </div>
 
  <div>
-<img src=https://github.com/Felipsgami/Felipsgami/blob/main/BoardingPass_MyNameOnFutureMission.png" alt="My cool logo"/>
+<img src=https://github.com/Felipsgami/Felipsgami/blob/main/BoardingPass_MyNameOnFutureMission.png alt="My cool logo"/>
 </div>
