@@ -29,5 +29,5 @@
  
 </div>
 <div>
-<iframe width="980" height="410" src="https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=54045965798" frameborder="0"></iframe>
+<img src="https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=54045965798">
 </div>
