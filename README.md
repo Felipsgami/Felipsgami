@@ -30,5 +30,5 @@
 </div>
 
  <div>
-<![img] (https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=54045965798")/>
+<img src=https://github.com/Felipsgami/Felipsgami/blob/ddb13d4d2f54089517231913f703abcc3f84c805/BoardingPass_MyNameOnFutureMission.png" alt="My cool logo"/>
 </div>
