@@ -44,7 +44,7 @@
 </div>
 <p align="center"> 
 
- ## Total Visits On My Profile: <br>
+  ## Total Visits On My Profile: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
 </p>
