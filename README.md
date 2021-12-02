@@ -1,4 +1,4 @@
-<h2 align="center">## Hello Humans!! I am Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Hello Humans!! I am Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <div>
   <a href="https://github.com/Felipsgami">
