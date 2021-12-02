@@ -40,13 +40,13 @@
   <a href="https://www.linkedin.com/in/felipescavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/felipsgami">
     </a>
- <div> 
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <p align="center"> 
 
- ## Total visits on my profile: <br>
+ ## Total Visits On My Profile: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
  </p>
