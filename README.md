@@ -31,7 +31,6 @@
  <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
  <img align="center" title="ElectronJS" alt="ElectronJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
  <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
- <img align="center" title="Laravel 8" alt="Laravel 8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
  <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> 
 <br />
 <br /> 
