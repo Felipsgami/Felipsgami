@@ -1,6 +1,10 @@
 <h2 align="center">Hello Humans!! I am Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-
+<div align="center">
+  <a href="https://github.com/felipsgami">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipsgami&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipsgami&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <div style="display: inline_block;" align="center">
   <a href="https://github.com/Felipsgami">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heloriel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=22"/>
