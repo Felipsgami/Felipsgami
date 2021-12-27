@@ -2,7 +2,7 @@
 <html>
 <body>
 <header>
-<h1 align="center">Hello !! I am Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hello!, I am Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 </header>
 <section align="center">
 <a href="https://github.com/felipsgami">
@@ -64,7 +64,7 @@
 </p>
 </section>
 <section align="center">
-<img align="center" title="Nasa" alt="My cool logo" src=https://github.com/Felipsgami/Felipsgami/blob/main/BoardingPass_MyNameOnFutureMission.png/>
+<img align="center" title="Nasa" alt="Nasa" src=https://github.com/Felipsgami/Felipsgami/blob/main/BoardingPass_MyNameOnFutureMission.png/>
 </section>
 </body>
 <html>
