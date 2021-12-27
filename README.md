@@ -1,8 +1,4 @@
-<!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8>
-</head>
 <body>
 <header>
 <h1 align="center">Hello !! I am Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
