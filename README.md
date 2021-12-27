@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body>
 <header>
@@ -62,8 +63,8 @@
 <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
 </p>
 </section>
-<section>
-<img src=https://github.com/Felipsgami/Felipsgami/blob/main/BoardingPass_MyNameOnFutureMission.png alt="My cool logo"/>
+<section align="center">
+<img align="center" title="Nasa" alt="My cool logo" src=https://github.com/Felipsgami/Felipsgami/blob/main/BoardingPass_MyNameOnFutureMission.png/>
 </section>
 </body>
 <html>
