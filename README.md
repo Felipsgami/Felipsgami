@@ -26,7 +26,7 @@
 
 <section>
 <header>
-<h2 align="center">O Que Estou Estudando:</h2>
+<h2 align="center">Minhas Skills:</h2>
 </header>
 </section>
 <section align="center">
@@ -37,6 +37,14 @@
 <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" title="Linux" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</section>
+
+<section>
+<header>
+<h2 align="center">O Que Estou Estudando:</h2>
+</header>
+</section>
+<section align="center">
 <img align="center" title="Ruby" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" title="R" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
@@ -65,7 +73,7 @@
 <a href="https://github.com/felipsgami" target="_blank"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </section>
 
- <section>
+<section>
 <header>
 <h2 align="center">Total de Vizitas no Meu Perfil:</h2>
 </header>
