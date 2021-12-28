@@ -58,9 +58,7 @@
 <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </section>
-</section>
 
-<section>
 <header>
 <h2 align="center">Meus Contatos: 📱</h2>
 </header>
