@@ -13,6 +13,7 @@
 <header>
 <h2 align="center">Studying:</h2>
 </header>
+</section>
 <section align="center">
 <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" title="C" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
