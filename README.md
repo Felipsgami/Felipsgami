@@ -83,13 +83,10 @@
 </p>
 </section>
  
- <section align="center">
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
- </section>
-
+<section align="center"> 
+<img align="center" title="Snake" alt="Snake" src=https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg>
 </section>
+
 <section align="center">
 <img align="center" title="Nasa" alt="Nasa" src=https://github.com/Felipsgami/Felipsgami/blob/main/BoardingPass_MyNameOnFutureMission.png/>
 </section>
