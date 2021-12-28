@@ -4,17 +4,20 @@
 <header>
 <h1 align="center">Hello!, I am Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 </header>
-<section align="center">
+
+ <section align="center">
 <a href="https://github.com/felipsgami">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipsgami&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipsgami&layout=compact&langs_count=7&theme=dracula"/>
 </section>
- <section>
+ 
+  <section>
  <header>
  <h2 align="center">About Me:</h2>
  </header>
-  <p>........</p>
+   ........
  </section>
+
 <section>
 <header>
 <h2 align="center">Studying:</h2>
@@ -41,6 +44,7 @@
 <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </section>
 </section>
+
 <section>
 <header>
 <h2 align="center">My Contacts:</h2>
@@ -55,14 +59,7 @@
 <a href="https://github.com/felipsgami" target="_blank"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </section>
 
- <section align="center">
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
- </section>
-
-</section>
-<section>
+ <section>
 <header>
 <h2 align="center">Total Visits On My Profile:</h2>
 </header>
@@ -70,8 +67,16 @@
 <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
 </p>
 </section>
+ 
+ <section align="center">
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+ </section>
+
+</section>
 <section align="center">
 <img align="center" title="Nasa" alt="Nasa" src=https://github.com/Felipsgami/Felipsgami/blob/main/BoardingPass_MyNameOnFutureMission.png/>
 </section>
 </body>
-<html>
+</html>
