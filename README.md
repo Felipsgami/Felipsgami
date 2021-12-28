@@ -19,7 +19,7 @@
 <img align="right" width="165" height="160" style="border-radius:30px;" src="foto.png?raw=true" />
 <p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
 <p> - 👨‍🎓 Estudante de Ciência da Computação na Univercidade Federal do ABC. </p>
-<p> - 🧪 Formado em Tecnico em Quimica pela Escola e Faculdade SENAI Mario Amato . </p>
+<p> - 🧪 Formado em Tecnico em Quimica pela Escola e Faculdade SENAI Mario Amato. </p>
 <p> - 🎥 Atualmente Cursando Cinema & Tv no Centro de Audiovisual de SBC. </p>
 </div>
 </section>
