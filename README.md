@@ -16,7 +16,7 @@
 <h2 align="center">About Me:</h2>
 </header>
 <div style="display: inline_block"  >
-<img align="right" width="180" height="180" style="border-radius:30px;" src="aaaaaa.png?raw=true" />
+<img align="right" width="160" height="160" style="border-radius:30px;" src="aaaaaa.png?raw=true" />
 <p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
 <p> - 👨‍🎓 Estudante de Ciência da Computação na Univercidade Federal do ABC. </p>
 <p> - 🧪 Formado em Tecnico em Quimica pela Escola e Faculdade SENAI Mario Amato . </p>
