@@ -75,7 +75,7 @@
 
 <section>
 <header>
-<h2 align="center">Total de Vizitas no Meu Perfil: 🕵️</h2>
+<h2 align="center">Total de Visitas no Meu Perfil: 🕵️</h2>
 </header>
 <p align="center"> 
 <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
