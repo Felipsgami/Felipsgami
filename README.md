@@ -26,7 +26,7 @@
 
 <section>
 <header>
-<h2 align="center">Minhas Skills:</h2>
+<h2 align="center">Minhas Skills: 🧠</h2>
 </header>
 </section>
 <section align="center">
@@ -41,7 +41,7 @@
 
 <section>
 <header>
-<h2 align="center">O Que Estou Estudando:</h2>
+<h2 align="center">O Que Estou Estudando: 📖</h2>
 </header>
 </section>
 <section align="center">
@@ -61,7 +61,7 @@
 
 <section>
 <header>
-<h2 align="center">Meus Contatos:</h2>
+<h2 align="center">Meus Contatos: 📱</h2>
 </header>
 <section align="center">
 <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -75,7 +75,7 @@
 
 <section>
 <header>
-<h2 align="center">Total de Vizitas no Meu Perfil:</h2>
+<h2 align="center">Total de Vizitas no Meu Perfil: 🕵️</h2>
 </header>
 <p align="center"> 
 <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
