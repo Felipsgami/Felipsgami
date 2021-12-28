@@ -2,7 +2,7 @@
 <html>
 <body>
 <header>
-<h1 align="center">Hello!, I am Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Olá!, Eu Sou Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 </header>
 
  <section align="center">
@@ -13,20 +13,20 @@
  
 <section>
 <header>
-<h2 align="center">About Me:</h2>
+<h2 align="center">Sobre Mim:</h2>
 </header>
 <div style="display: inline_block"  >
 <img align="right" width="160" height="160" style="border-radius:30px;" src="foto.png?raw=true" />
 <p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
 <p> - 👨‍🎓 Estudante de Ciência da Computação na Univercidade Federal do ABC. </p>
 <p> - 🧪 Formado em Tecnico em Quimica pela Escola e Faculdade SENAI Mario Amato . </p>
-<p> - 🎥 Atualmente Cursando Cinema & Tv no Centro de Audiovisual de SBC </p>
+<p> - 🎥 Atualmente Cursando Cinema & Tv no Centro de Audiovisual de SBC. </p>
 </div>
 </section>
 
 <section>
 <header>
-<h2 align="center">Studying:</h2>
+<h2 align="center">O Que Estou Estudando:</h2>
 </header>
 </section>
 <section align="center">
@@ -53,7 +53,7 @@
 
 <section>
 <header>
-<h2 align="center">My Contacts:</h2>
+<h2 align="center">Meus Contatos:</h2>
 </header>
 <section align="center">
 <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -67,7 +67,7 @@
 
  <section>
 <header>
-<h2 align="center">Total Visits On My Profile:</h2>
+<h2 align="center">Total de Vizitas no meu Perfil:</h2>
 </header>
 <p align="center"> 
 <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
