@@ -8,7 +8,7 @@
 <section align="center">
 <a href="https://github.com/felipsgami">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipsgami&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipsgami&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipsgami&layout=compact&langs_count=50&theme=dracula"/>
 </a>
 </section>
  
