@@ -16,7 +16,7 @@
 <h2 align="center">Sobre Mim:</h2>
 </header>
 <div style="display: inline_block"  >
-<img align="right" width="160" height="160" style="border-radius:30px;" src="foto.png?raw=true" />
+<img align="right" width="165" height="160" style="border-radius:30px;" src="foto.png?raw=true" />
 <p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
 <p> - 👨‍🎓 Estudante de Ciência da Computação na Univercidade Federal do ABC. </p>
 <p> - 🧪 Formado em Tecnico em Quimica pela Escola e Faculdade SENAI Mario Amato . </p>
@@ -67,7 +67,7 @@
 
  <section>
 <header>
-<h2 align="center">Total de Vizitas no meu Perfil:</h2>
+<h2 align="center">Total de Vizitas no Meu Perfil:</h2>
 </header>
 <p align="center"> 
 <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
