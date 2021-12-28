@@ -13,14 +13,7 @@
  <header>
  <h2 align="center">About Me:</h2>
  </header>
-  .
-  .
-  .
-  .
-  .
-  .
-  .
-  .
+  <p>........</p>
  </section>
 <section>
 <header>
