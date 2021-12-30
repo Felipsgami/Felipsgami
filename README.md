@@ -21,13 +21,13 @@
    <header>
     <h2 align="center">Sobre Mim:</h2>
    </header>
-  <div style="display: inline_block"  >
-   <img align="right" width="150" height="145" style="border-radius:30px;" src="foto.png?raw=true" />
-   <p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
-   <p> - 👨‍🎓 Discente de Ciência da Computação na Univercidade Federal do ABC. </p>
-   <p> - 🧪 Formado em Técnico em Quimica pela Escola e Faculdade SENAI Mario Amato. </p>
-   <p> - 🎥 Atualmente Cursando Cinema & Tv no Centro de Audiovisual de SBC. </p>
-  </div>
+    <div style="display: inline_block"  >
+     <img align="right" width="150" height="145" style="border-radius:30px;" src="foto.png?raw=true" />
+     <p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
+     <p> - 👨‍🎓 Discente de Ciência da Computação na Univercidade Federal do ABC. </p>
+     <p> - 🧪 Formado em Técnico em Quimica pela Escola e Faculdade SENAI Mario Amato. </p>
+     <p> - 🎥 Atualmente Cursando Cinema & Tv no Centro de Audiovisual de SBC. </p>
+    </div>
   </section>
 
   <section>
@@ -35,6 +35,7 @@
     <h2 align="center">Minhas Skills: 🧠</h2>
    </header>
   </section>
+  
   <section align="center">
    <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" title="C" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -53,6 +54,7 @@
     <h2 align="center">O Que Estou Estudando: 📖</h2>
    </header>
   </section>
+  
   <section align="center">
    <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
