@@ -1,29 +1,29 @@
 <!DOCTYPE html>
 <html>
-<body>
-<header>
-<h1 align="center">Olá! Eu Sou Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-</header>
+ <body>
+  <header>
+   <h1 align="center">Olá! Eu Sou Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+  </header>
 
-<section align="center">
-<a href="https://github.com/felipsgami">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipsgami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipsgami&layout=compact&langs_count=10&theme=tokyonight"/>
-</a>
-</section>
+  <section align="center">
+   <a href="https://github.com/felipsgami">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipsgami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipsgami&layout=compact&langs_count=10&theme=tokyonight"/>
+   </a>
+  </section>
  
-<section>
-<header>
-<h2 align="center">Sobre Mim:</h2>
-</header>
-<div style="display: inline_block"  >
-<img align="right" width="150" height="145" style="border-radius:30px;" src="foto.png?raw=true" />
-<p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
-<p> - 👨‍🎓 Discente de Ciência da Computação na Univercidade Federal do ABC. </p>
-<p> - 🧪 Formado em Técnico em Quimica pela Escola e Faculdade SENAI Mario Amato. </p>
-<p> - 🎥 Atualmente Cursando Cinema & Tv no Centro de Audiovisual de SBC. </p>
-</div>
-</section>
+  <section>
+   <header>
+    <h2 align="center">Sobre Mim:</h2>
+   </header>
+  <div style="display: inline_block"  >
+   <img align="right" width="150" height="145" style="border-radius:30px;" src="foto.png?raw=true" />
+   <p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
+   <p> - 👨‍🎓 Discente de Ciência da Computação na Univercidade Federal do ABC. </p>
+   <p> - 🧪 Formado em Técnico em Quimica pela Escola e Faculdade SENAI Mario Amato. </p>
+   <p> - 🎥 Atualmente Cursando Cinema & Tv no Centro de Audiovisual de SBC. </p>
+  </div>
+  </section>
 
 <section>
 <header>
