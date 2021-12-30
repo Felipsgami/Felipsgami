@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
+ <head>
+  <meta charset="UTF-8">
+ </head>
  <body>
   <header>
-   <h1 align="center">Olá! Eu Sou Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+   <h1 align="center">Olá, Mundo! Eu Sou Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
   </header>
 
   <section align="center">
