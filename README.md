@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<html>
- <head>
-  <meta charset="UTF-8">
- </head>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
  <body>
   <header>
    <h1 align="center">Olá, Mundo! Eu Sou Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
