@@ -82,8 +82,10 @@
   <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
   </p>
-    
-  <img align="center" title="Snake" alt="Snake" src=https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg>
+  
+  <p>
+   <img align="center" title="Snake" alt="Snake" src=https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg>
+  </p>  
  
  </body>
 </html>
