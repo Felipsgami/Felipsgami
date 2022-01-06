@@ -62,6 +62,14 @@
    <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   </section>
   
+  <p>
+   <h2 align="center">Total de Visitas no Meu Perfil: 🕵️</h2>
+  </p>
+    
+  <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
+  </p>
+
   <section align="center">
    <p>
     <h2 align="center">Meus Contatos: 📱</h2>
@@ -74,18 +82,6 @@
    <a href="https://www.linkedin.com/in/felipescavalcante/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
    <a href="https://github.com/felipsgami" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   </section>
-  
-  <p>
-   <h2 align="center">Total de Visitas no Meu Perfil: 🕵️</h2>
-  </p>
-   
-  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
-  </p>
-  
-  <p>
-   <img align="center" title="Snake" alt="Snake" src=https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg>
-  </p>  
  
  </body>
 </html>
