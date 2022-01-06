@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
  <body>
   <header>
@@ -17,24 +17,19 @@
    </a>
   </section>
  
-  <section>
-   <header>
-    <h2 align="center">Sobre Mim:</h2>
-   </header>
-    <div style="display: inline_block"  >
-     <img align="right" width="150" height="145" style="border-radius:30px;" src="foto.png?raw=true" />
-     <p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
-     <p> - 👨‍🎓 Discente de Ciência da Computação na Univercidade Federal do ABC. </p>
-     <p> - 🧪 Formado em Técnico em Quimica pela Escola e Faculdade SENAI Mario Amato. </p>
-     <p> - 🎥 Atualmente Cursando Cinema & Tv no Centro de Audiovisual de SBC. </p>
-    </div>
-  </section>
-
-  <section>
-   <header>
-    <h2 align="center">Minhas Skills: 🧠</h2>
-   </header>
-  </section>
+  <p>
+   <h2 align="center">Sobre Mim:</h2>
+  </p>
+  <div style="display: inline_block">
+    <img align="right" width="150" height="145" style="border-radius:30px;" src="foto.png?raw=true"/>
+    <p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
+    <p> - 👨‍🎓 Discente de Ciência da Computação na Univercidade Federal do ABC. </p>
+    <p> - 🧪 Formado em Técnico em Quimica pela Escola e Faculdade SENAI Mario Amato. </p>
+    <p> - 🎥 Atualmente Cursando Cinema & Tv no Centro de Audiovisual de SBC. </p>
+  </div>
+  <p>
+   <h2 align="center">Minhas Skills: 🧠</h2>
+  </p>
   
   <section align="center">
    <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -49,11 +44,9 @@
    <img align="center" title="VSCode" alt="VSCode" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
   </section>
 
-  <section>
-   <header>
+  <p>
     <h2 align="center">O Que Estou Estudando: 📖</h2>
-   </header>
-  </section>
+  </p>
   
   <section align="center">
    <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -70,9 +63,9 @@
   </section>
   
   <section align="center">
-   <header>
+   <p>
     <h2 align="center">Meus Contatos: 📱</h2>
-   </header>
+   </p>
    <a href="https://www.youtube.com/" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://www.twitch.tv/" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
    <a href="https://discord.gg/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
@@ -81,19 +74,16 @@
    <a href="https://www.linkedin.com/in/felipescavalcante/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
    <a href="https://github.com/felipsgami" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   </section>
-
-  <section>
-   <header>
-    <h2 align="center">Total de Visitas no Meu Perfil: 🕵️</h2>
-   </header>
-   <p align="center"> 
-    <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
-   </p>
-  </section>
+  
+  <p>
+   <h2 align="center">Total de Visitas no Meu Perfil: 🕵️</h2>
+  </p>
+   
+  <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/felipsgami/count.svg" />
+  </p>
+    
+  <img align="center" title="Snake" alt="Snake" src=https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg>
  
-  <section align="center"> 
-   <img align="center" title="Snake" alt="Snake" src=https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg>
-  </section>
-
  </body>
 </html>
