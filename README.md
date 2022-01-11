@@ -13,7 +13,7 @@
   <section align="center">
    <a href="https://github.com/felipsgami">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipsgami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipsgami&layout=compact&langs_count=10&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipsgami&layout=compact&langs_count=7&theme=tokyonight"/>
    </a>
   </section>
  
