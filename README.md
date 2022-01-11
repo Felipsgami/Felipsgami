@@ -25,7 +25,7 @@
     <p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
     <p> - 👨‍🎓 Discente de Ciência da Computação na Univercidade Federal do ABC. </p>
     <p> - 🧪 Formado em Técnico em Quimica pela Escola e Faculdade SENAI Mario Amato. </p>
-    <p> - 🎥 Atualmente Cursando Cinema & Tv no Centro de Audiovisual de SBC. </p>
+    <p> - 🎥  </p>
   </div>
   <p>
    <h2 align="center">Minhas Skills: 🧠</h2>
