@@ -22,9 +22,8 @@
   </p>
   <div style="display: inline_block">
     <img align="right" width="150" height="145" style="border-radius:30px;" src="foto.png?raw=true"/>
-    <p> - 👨‍💻 Desenvolvedor Front-End Jr.</p>
+    <p> - 👨‍💻 Data Scientist Jr.</p>
     <p> - 👨‍🎓 Discente de Ciência da Computação na Universidade Federal do ABC. </p>
-    <p> - 🧪 Formado em Técnico em Quimica pela Escola e Faculdade SENAI Mario Amato. </p>
   </div>
   <p>
    <h2 align="center">Minhas Skills: 🧠</h2>
