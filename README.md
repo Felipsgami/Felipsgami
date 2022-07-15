@@ -7,7 +7,7 @@
 </head>
  <body>
   <header>
-   <h1 align="center">Hello World! I Am Felipe S. Cavalcante ! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+   <h1 align="center">Hello World! I am Felipe S. Cavalcante !</h1>
   </header>
 
   <div align="center">
