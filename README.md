@@ -21,8 +21,8 @@
   <p>
    <h2 align="center">Sobre Mim:</h2>
   </p>
-    <p> - 👨‍💻 Data Analyst .</p>
-    <p> - 👨‍🎓 Discente de Ciência da Computação e Neurociência na Universidade Federal do ABC. </p>
+    <p> - 👨‍💻 Data Scientist </p>
+    <p> - 👨‍🎓 Discente de Ciência da Computação e Neurociência na Universidade Federal do ABC </p>
   </div>
   <p>
    <h2 align="center">Minhas Skills: 🧠</h2>
